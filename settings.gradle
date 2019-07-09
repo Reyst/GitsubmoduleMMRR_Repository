@@ -1,3 +1,6 @@
-include ':repository', ':repo_core', ':room_ds', ':retrofit_ds'
+include ':repository', ':core', ':repo_core', ':room_ds', ':retrofit_ds'
 
 project(':repo_core').projectDir = new File('GitsubmoduleMMRR_RepoCore/repo_core')
+project(':room_ds').projectDir = new File('GitsubmoduleMMRR_RoomDS/room_ds')
+project(':retrofit_ds').projectDir = new File('GitsubmoduleMMRR_RetrofitDS/retrofit_ds')
+project(':core').projectDir = new File('GitSubmoduleMMRR_Core/core')

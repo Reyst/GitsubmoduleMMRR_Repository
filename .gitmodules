@@ -1,3 +1,12 @@
 [submodule "GitsubmoduleMMRR_RepoCore"]
 	path = GitsubmoduleMMRR_RepoCore
 	url = https://github.com/Reyst/GitsubmoduleMMRR_RepoCore.git
+[submodule "GitsubmoduleMMRR_RoomDS"]
+	path = GitsubmoduleMMRR_RoomDS
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RoomDS.git
+[submodule "GitsubmoduleMMRR_RetrofitDS"]
+	path = GitsubmoduleMMRR_RetrofitDS
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RetrofitDS.git
+[submodule "GitSubmoduleMMRR_Core"]
+	path = GitSubmoduleMMRR_Core
+	url = https://github.com/Reyst/GitSubmoduleMMRR_Core.git
