@@ -1,0 +1,3 @@
+[submodule "GitsubmoduleMMRR_RepoCore"]
+	path = GitsubmoduleMMRR_RepoCore
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RepoCore.git

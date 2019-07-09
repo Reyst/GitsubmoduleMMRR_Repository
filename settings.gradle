@@ -1,1 +1,3 @@
-include ':repository'
+include ':repository', ':repo_core', ':room_ds', ':retrofit_ds'
+
+project(':repo_core').projectDir = new File('GitsubmoduleMMRR_RepoCore/repo_core')
